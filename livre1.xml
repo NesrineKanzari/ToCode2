@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<livre>
+<titre>My Book</titre>
+<auteurs>
+<auteur><nom>Paulo</nom><prenom>Coelho</prenom></auteur>
+<auteur><nom>Guillaume</nom><prenom>Musso</prenom></auteur>
+</auteurs>
+<sections>
+<section>
+<titre>1st Section </titre>
+<chapitres>
+<chapitre>
+<titre>1st Chapter</titre>
+<paragraphes>
+<paragraphe>1st paragraph</paragraphe>
+<paragraphe>2nd paragraph</paragraphe>
+</paragraphes>
+</chapitre>
+<chapitre>
+<titre>2nd Chapter</titre>
+<paragraphes>
+<paragraphe>1st paragraph</paragraphe>
+<paragraphe>2nd paragraph</paragraphe>
+</paragraphes>
+</chapitre>
+</chapitres>
+</section>
+<section>
+<titre>2nd Section </titre>
+<chapitres>
+<chapitre>
+<titre>1st Chapter</titre>
+<paragraphes>
+<paragraphe>1st paragraph</paragraphe>
+<paragraphe>2nd paragraph</paragraphe>
+</paragraphes>
+</chapitre>
+<chapitre>
+<titre>2nd chapter</titre>
+<paragraphes>
+<paragraphe>1st paragraph</paragraphe>
+<paragraphe>2nd paragraph</paragraphe>
+</paragraphes>
+</chapitre>
+</chapitres>
+</section>
+</sections>
+</livre>
