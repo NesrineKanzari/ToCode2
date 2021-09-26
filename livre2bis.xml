@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<livre>
+<titre>My Book</titre>
+<auteurs>
+<auteur nom="Paulo" prenom="Coelho"/>
+<auteur nom="Guillaume" prenom="Musso" />
+</auteurs>
+<sections>
+<section titre="1st Section">
+<chapitres>
+<chapitre titre="1st Chapter>
+<paragraphes>
+<paragraphe>&lt;element id="10"&gt;&amp;gt;&lt;/element&gt;</paragraphe>
+<paragraphe> <![CDATA[<element id="10">&gt;</element>]]> </paragraphe>
+</paragraphes>
+</chapitre>
+<chapitre titre="2nd Chapter">
+<paragraphes>
+<paragraphe>&lt;element id="10"&gt;&amp;gt;&lt;/element&gt;</paragraphe>
+<paragraphe> <![CDATA[<element id="10">&gt;</element>]]> </paragraphe>
+</paragraphes>
+</chapitre>
+</chapitres>
+</section>
+<section titre="2nd Section" >
+<chapitres>
+<chapitre titre="1st Chapter">
+<paragraphes>
+<paragraphe>&lt;element id="10"&gt;&amp;gt;&lt;/element&gt;</paragraphe>
+<paragraphe> <![CDATA[<element id="10">&gt;</element>]]> </paragraphe>
+</paragraphes>
+</chapitre>
+<chapitre titre="2nd chapter">
+<paragraphes>
+<paragraphe>&lt;element id="10"&gt;&amp;gt;&lt;/element&gt;</paragraphe>
+<paragraphe> <![CDATA[<element id="10">&gt;</element>]]> </paragraphe>
+</paragraphes>
+</chapitre>
+</chapitres>
+</section>
+</sections>
+</livre>
